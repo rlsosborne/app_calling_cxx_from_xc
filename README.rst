@@ -1,4 +1,6 @@
-Calling C++ from XC
-===================
+===========================
+Calling C++ from XC Example
+===========================
 
-This repository contains a simple example of how to call C++ from XC.
+:Maintainer: https://github.com/rlsosborne
+:Description: This repository contains a simple example of how to call C++ from XC
